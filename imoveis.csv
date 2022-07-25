@@ -1,241 +1,457 @@
 local,preco,metragem,quartos,garagens,banheiros
-"AvenidaViscondedeGuarapuava,Centro",187000,20-36,1,0-1,1
-"AvenidaViscondedeGuarapuava,Centro",279900,32-72,1-2,1-3,1-2
-"AvenidaMarechalFlorianoPeixoto,Centro",526316,80,,,
-"RuaClóvisBeviláqua,Cabral",1150000,213,4,2,4
-"RuaJoséVieiradePaula,SitioCercado",419900,114,3,2,3
-"RuaÂngeloDallarmi,SantaFelicidade",780000,206,4,2,3
-"AvenidaSãoJosé,CristoRei",259444,32,1,1,1
-"Boqueirão,Curitiba",650000,328,2,2,3
-"RuaÂngeloTozim,CampodeSantana",170000,45,2,1,1
-"SantaCândida,Curitiba",299000,58,3,1,1
-"RuaÂngeloNabosne,CidadeIndustrial",1412903,129,3,2,4
-"RuaBarãodoRioBranco,Centro",80000,450,,,
-"RuaItajubá,Portão",270000,58,3,1,2
-"Xaxim,Curitiba",350000,63,3,1,1
-"TravessaMariadeLourdesPericoKozoski,Pinheirinho",295000,10,2,1,2
-"RuaDelegadoNabyParaná,CapãoRaso",195000,55,2,1,1
-"RuaVicenteJoséPalazzo,SantaCândida",380000,96,3,2,1
-"Umbara,Curitiba",305000,70,3,,3
-"RuaOscarGomesdeOliveira,SantaCândida",242900,53,2,1,1
-"EstradaGuilhermeWeigert,SantaCândida",187000,53,2,2,1
-"RuaFernandodeNoronha,BoaVista",275000,45,2,1,1
-"RuaDanielComboni,Fazendinha",199990,48,2,1,1
-"RuaMariaÂngelaPachaly,Atuba",689000,165,3,1,2
-"RuaBentoViana,ÁguaVerde",650000,120,3,1,3
-"RuaBarãodoRioBranco,Centro",990248,123-149,2,2,2
-"RuaVinteeQuatrodeMaio,Centro",1226560,153,,,1
-"AvenidaSilvaJardim,Rebouças",213991,19-35,1,,1
-"CristoRei,Curitiba",2290000,256,3,4,4
-"RuaEngenheiroNiepcedaSilva,Portão",1190000,128,3,2,5
-"AlamedaPrincesaIzabel,Bigorrilho",1329552,104,2,2,3
-"RuaSantaMadalenaSofiaBarat,BairroAlto",639580,576,,,
-"AvenidaViscondedeGuarapuava,AltodaRuaXV",1500000,260,4,5,4
-"RuaProfessorMárioJoséZancanaro,CidadeIndustrial",199070,110,,,
-"TravessaRafaelFranciscoGreca,ÁguaVerde",329826,43,1,1,1
-"RuaCarmelinaCavassin,Abranches",1149000,1050,,,
-"RuaJoãoBatistaTrentin,Tingui",519900,68,3,,4
-"AvenidaJoãoGualberto,AltodaGlória",349000,53,1,1,1
-"RuaMateusLeme,SãoFrancisco",160000,47,2,,1
-"Centro,Curitiba",525000,200,2,,
-"RuaViniciosJoséBórioJúnior,CampodeSantana",195000,46,2,1,1
-"AvenidaComendadorFranco,JardimdasAméricas",1290000,551,,,
-"RuaJorgeBrey,AltoBoqueirão",665000,149,3,2,3
-"RuaPadreAnchieta,Champagnat",1950000,164,,4,
-"AvenidaFredolinWolf,Pilarzinho",215000,53,2,1,1
-"RuaProfessorPedroViriatoParigotdeSouza,CidadeIndustrial",1488000,166,4,2,3
-"AvenidaRepúblicaArgentina,ÁguaVerde",1000000,176,3,2,4
-"RuaAstorga,SitioCercado",380000,224,5,16,3
-"RuaReinaldoStocco,Pinheirinho",189290,47,2,1,1
-"AvenidaIguaçu,Rebouças",354900,25-62,1-2,0-1,1-2
-"RuaEmilianoPerneta,Centro",2021695,212,,,3
-"RuaEmilianoPerneta,Centro",466158,36-242,,1,
-"Batel,Curitiba",499000,85,3,1,2
-"RuaEvelázioAugustoBley,Tatuquara",115000,90,,,
-"RuaCoronelAmazonasMarcondes,Bacacheri",1148000,124,3,2,4
-"AvenidaPresidenteAffonsoCamargo,CristoRei",174500,28,1,,1
-"RuaLindolfoPessoa,Seminário",660000,100,3,1,2
-"Barigui,Curitiba",446800,56,2,1,2
-"RuaAyrtonTurra,Cajuru",170000,48,2,1,1
-"RuaAlbericoFloresBueno,BairroAlto",580000,187,3,2,3
-"RuaJoséLoureiro,Centro",260000,98,,,1
-"RuaPadreDehon,Hauer",270000,57,3,1,1
-"RuaTobiasdeMacedoJúnior,SantoInácio",980000,162,2,2,3
-"RuaJoãoDembinski,CidadeIndustrial",180000,44,2,1,1
-"RuaCurupaitis,SantaQuitéria",370000,63,1,2,2
-"RuaAmazonas,ÁguaVerde",359900,37,1,1,2
-"RuaProfessorJoséMaurícioHiggins,Boqueirão",785000,784,,,
-"RuaCoronelAdyrGuimarães,Ahú",1800000,229,,4,
-"SantaQuitéria,Curitiba",195702,28,2,1,1
-"RuaAnaSofiaRibeiro,SitioCercado",590000,186,2,1,3
-"AvenidaMunhozdaRocha,Cabral",2871979,190,3,3,5
-"RuaXVdeNovembro,Centro",350000,39,,1,
-"RuaDalvadeOliveira,Tatuquara",185000,38,2,1,1
-"RuaDesembargadorErmelinodeLeão,Centro",259000,35-38,1,,1
-"RuaViscondedoRioBranco,Centro",635733,60,,,
-"RuaMarianoTorres,Centro",656000,72-168,3,1-2,2-3
-"RuaFranciscoLeal,Bacacheri",695000,127,3,2,3
-"Batel,Curitiba",4200000,600,4,6,6
-"RuaPalmeiras,ÁguaVerde",845000,124,3,2,3
-"RuaAlbertoPotier,BoaVista",574894,50,1,1,2
-"RuaJoãoAlencarGuimarães,CampoComprido",279000,49,2,1,1
-"RuaTrezedeMaio,Centro",130000,36,,,1
-"AvenidaCândidoHartmann,Bigorrilho",2350000,594,5,4,7
-"RuaÂngeloTozim,CampodoSantana",145000,46,2,1,1
-"EstradaGuilhermeWeigert,SantaCândida",249800,66,3,1,2
-"Cabral,Curitiba",360000,37,,1,1
-"RuaMariaNoemiadosSantos,SantaCândida",308480,52,2,1,2
-"Uberaba,Curitiba",600000,114,3,3,2
-"RuaBrunoLobo,BairroAlto",719000,135,3,2,4
-"RuaEngenheiroLuizCarlosdeOliveiraBorges,SantaQuitéria",275000,58,3,1,1
-"RuaPadreAnchieta,SãoFrancisco",1890000,283,4,3,5
-"RuaMarcelinoNogueira,Bacacheri",365000,82,3,1,3
-"AvenidaMarechalMascarenhasdeMoraes,SantaCândida",245000,54,2,1,1
-"CidadeIndustrial,Curitiba",320000,69,2,2,1
-"Centro,Curitiba",565000,88,,,3
-"RuaPauloSetúbal,Carmo",339500,76,3,1,1
-"RuaLotharioBoutin,Pinheirinho",270000,47,2,1,2
-"RuaBaltazarCarrascodosReis,Rebouças",310650,34-40,1,1,1
-"RuaFranciscoNunes,Rebouças",180000,35,1,0-1,1
-"AlamedaJúliadaCosta,SãoFrancisco",741591,70-152,2-3,1-3,2-3
-"AvenidaViscondedeGuarapuava,Batel",3000000,303,4,3,3
-"CristoRei,Curitiba",1290000,149,3,3,5
-"RuaRiachuelo,Centro",217900,17,1,,1
-"SantaCândida,Curitiba",248000,59,3,1,1
-"Cabral,Curitiba",360000,37,,1,1
-"RuaMarquêsdoParaná,ÁguaVerde",923000,91,3,2,3
-"RuaCapitãoSouzaFranco,Batel",350000,65,,,1
-"RuaPadreAnchieta,SãoFrancisco",1890000,283,4,3,5
-"Umbara,Curitiba",314900,78,2,2,2
-"RuaFranciscoZanicottiSobrinho,SantaCândida",234900,49,2,1,1
-"Cajuru,Curitiba",150000,33,1,,1
-"RuaJoãoAlencarGuimarães,SantaQuitéria",318000,53,2,1,1
-"RuaCapitãoJoséMariaSobrinho,Fanny",410000,60,2,1,2
-"RuaArlindoCooper,Parolin",348000,72,2,,2
-"AvenidaMarechalMascarenhasdeMoraes,SantaCândida",245000,54,2,1,1
-"CapãoRaso,Curitiba",540000,69,2,1,2
-"RuaAmadeudoAmaral,Portão",539900,65,3,2,2
-"AvenidaNossaSenhoraAparecida,Seminário",371990,48,2,,2
-"RuaTobiasdeMacedoJúnior,SantoInácio",483600,56,2,2,2
-"AvenidaViscondedeGuarapuava,Centro",230000,33,1,,1
-"AvenidaRepúblicaArgentina,Portão",300000,31,,,1
-"AlamedaJúliadaCosta,Mercês",682428,70-152,2-3,1-2,2-4
-"AvenidaJoãoGualberto,AltodaGlória",630008,42-83,1-2,1,2-3
-"RuaReinaldinoSchaffenbergdeQuadros,AltodaRuaXV",266993,26-48,1-2,,1
-"RuaMarumby,CampoComprido",760000,145,3,1,4
-"RuaRaposoTavares,Pilarzinho",3200000,427,4,4,7
-"RuaCanadá,Bacacheri",750000,135,3,1,2
-"CapãoRaso,Curitiba",313587,50,2,1,1
-"RuaIrmãsPaulinas,NovoMundo",356900,54,2,1,1
-"RuaJoséRibeiroBaptista,CampodeSantana",239000,80,2,1,1
-"AlamedaCabral,SãoFrancisco",655000,70,2,2,2
-"RuaNelyConceiçãoLiss,SãoLourenço",480000,222,2,3,2
-"AlamedaCabral,SãoFrancisco",1679050,207,3,3,5
-"RuaPauloMartins,Mercês",880000,86,2,2,2
-"RuaReinaldoStocco,Pinheirinho",250000,45,2,1,1
-"Neoville,Curitiba",629896,109,3,2,2
-"RuaEuridesCunha,VilaIzabel",490000,173,3,2,2
-"RuaAfonsoSantana,Tatuquara",500000,200,2,,1
-"RuaGuilhermePugsley,ÁguaVerde",430000,83,3,1,2
-"RodoviaBR-116,Fanny",299000,55,2,1,2
-"RuaSãoPedro,Cabral",650000,93,3,2,2
-"RuaSãoPedro,Cabral",990000,147,3,2,4
-"CapãoRaso,Curitiba",287000,86,3,1,1
-"RuaParaíba,Guaíra",735000,159,3,4,1
-"RuaWaldemarBona,Atuba",280000,53,2,1,1
-"RuaAlferesÂngeloSampaio,Batel",2259200,151,3,3,3
-"AvenidaVicenteMachado,Batel",681330,53-125,1-3,1-2,
-"RuaAlferesÂngeloSampaio,Bigorrilho",696138,54-189,2-3,1-2,2
-"AvenidaMunhozdaRocha,Juvevê",5495000,328,3,4,5
-"VilaIzabel,Curitiba",367000,66,3,1,2
-"RuaProfessorPedroViriatoParigotdeSouza,Ecoville",1510389,166,4,3,4
-"RuaProfessorGuidoStraube,VilaIzabel",576000,47,,,1
-"RuaSãoPedro,Cabral",990000,147,3,2,4
-"Pinheirinho,Curitiba",219900,44,2,1,1
-"SantaCândida,Curitiba",270000,63,3,1,2
-"RuaJoãoVianaSeiler,Parolin",348000,77,2,,2
-"Boqueirão,Curitiba",644900,114,3,2,3
-"RuaRiachuelo,Centro",140000,37,,,1
-"Tatuquara,Curitiba",140000,43,2,1,1
-"RuaAntônioFreitasBarbosa,CapãoRaso",369900,45,2,1,1
-"RuaLúcioPereira,Tingui",295000,58,3,1,1
-"AlamedaJúliadaCosta,Bigorrilho",1035000,149,3,2,2
-"RodoviaBR-116,AltodaRuaXV",850000,322,,,
-"RuaBrasílioBacellarFilho,Tingui",380300,57,2,1,1
-"AvenidaCândidoHartmann,Champagnat",350000,56,,,1
-"RuaConselheiroLaurindo,Centro",130000,37,,,1
-"AvenidaParaná,Cabral",668000,72,2,2,1
-"RuaBarãodoRioBranco,Centro",990248,123,2,2,3
-"RuaVicenteCiccarino,BoaVista",394900,57,2,1,1
-"AvenidadoBatel,Batel",700000,46,1,1,1
-"RuaMariaClara,AltodaGlória",811100,75-221,2-3,2-3,3-4
-"RuaSchiller,CristoRei",306952,33-41,1-2,,1
-"RuaAlbertoPotier,BoaVista",779146,85,3,1,2
-"RuaBarãodeAntonina,SãoFrancisco",990000,120,2,2,2
-"SãoFrancisco,Curitiba",990000,115,2,2,2
-"RuaBarãodoRioBranco,Centro",990248,123,2,2,3
-"RuaVicenteCiccarino,BoaVista",394900,57,2,1,1
-"Tingui,Curitiba",350728,60,2,1,1
-"EstradaDelegadoBrunodeAlmeida,CampodeSantana",152320,53,,1,1
-"SantoInácio,Curitiba",460000,56,2,1,2
-"RuaRioJaguaribe,BairroAlto",479900,100,3,2,3
-"RuaProfessorGuidoStraube,VilaIzabel",576000,47,,,1
-"RuaZeilaMouradosSantos,CristoRei",169200,30,,,1
-"RuaAbelardoBarbosa,Tatuquara",600000,400,4,2,2
-"Cabral,Curitiba",781216,85,3,2,2
-"AvenidaRepúblicaArgentina,ÁguaVerde",295000,52,,,1
-"EstradaDelegadoBrunodeAlmeida,CampodeSantana",175000,39,2,1,1
-"RuaVoluntáriosdaPátria,Centro",200000,356,,,2
-"RuaDesembargadorMotta,ÁguaVerde",413000,55,1,1,1
-"RuaJoséCarolo,Mossunguê",549900,56,2,1,2
-"RuaTobiasdeMacedoJúnior,Barigui",434100,56,2,1,2
-"AvenidaPresidenteGetúlioVargas,ÁguaVerde",1974000,300,4,4,5
-"RuaSãoFranciscodeSales,AltoBoqueirão",419000,88,3,2,2
-"RuaAlferesÂngeloSampaio,Bigorrilho",1401863,107-318,3,2-3,2-4
-"RuaCapitãoSouzaFranco,Champagnat",470500,31-159,1,0-1,1
-"AvenidaJoãoGualberto,AltodaGlória",2604000,200-312,2-3,3-4,5-6
-"RuaBarãodosCamposGerais,Juvevê",395000,73,3,1,2
-"Rebouças,Curitiba",2800000,550,7,5,7
-"Xaxim,Curitiba",450000,336,,,
-"RuaCoronelAmazonasMarcondes,Ahú",750000,80,3,2,2
-"RuaViscondedoRioBranco,Mercês",854700,85,2,2,3
-"Parolin,Curitiba",337500,64,2,1,2
-"RuaEveraldoBackheuser,AltoBoqueirão",179990,47,2,1,1
-"AvenidaJoséGulin,Bacacheri",334100,51,2,,1
-"RuaEuclidesdaCunha,Bigorrilho",564563,55,,1,1
-"RuaDoutorPedrosa,Centro",315900,22,,,
-"RuaJoséAméricoTizoni,CampoComprido",796000,94,3,2,2
-"RuaOscarWilde,Lindóia",549900,67,3,2,2
-"RuaUbaldinodoAmaral,AltodaRuaXV",425000,34,,1,1
-"RuaAnnaDinarowskiSobczyk,CidadeIndustrial",405000,53,2,1,1
-"RuaAgostinhoBrusamolin,CidadeIndustrial",230000,47,2,1,1
-"RuaSãoVicentePallotti,Cajuru",371000,58,2,1,2
-"SantaCândida,Curitiba",210000,49,2,1,1
-"RuaProfessorPedroViriatoParigotdeSouza,Mossunguê",300000,60,2,1,1
-"AvenidaPresidenteGetúlioVargas,Rebouças",849360,91,3,2,1
-"Uberaba,Curitiba",415000,84,3,1,2
-"RuaMajorVicentedeCastro,Fanny",399000,56,2,1,2
-"RuaViscondedoRioBranco,Mercês",631700,72-88,2,1-2,2-3
-"AlamedaJúliadaCosta,Bigorrilho",Sobconsulta,149-261,2-3,2-3,3-5
-"RuaAlferesÂngeloSampaio,Mercês",1005600,90-209,2-3,2-3,3-4
-"AvenidaSetedeSetembro,Batel",1550000,274,4,3,5
-"RuaEuclidesdaCunha,Champagnat",795000,89,3,2,3
-"RuaAlcidesTheréziodeCarvalho,Guabirotuba",800000,110,3,2,2
-"RuaMajorVictorFeijó,CidadeIndustrial",230000,58,2,1,1
-"AvenidaCândidodeAbreu,CentroCívico",380000,76,2,,1
-"RuaDesembargadorCidCampelo,CidadeIndustrial",165000,120,,,
-"RuaAgostinhoBrusamolin,Neoville",330000,59,3,1,2
-"PraçaZacarias,Centro",245000,108,,,2
-"RuaErnestoBiscardi,Neoville",350000,63,3,1,1
-"RuaJoãoBonat,NovoMundo",550000,81,2,1,2
-"RuaPauloKulik,SantaCândida",227900,45,2,1,1
-"VilaIzabel,Curitiba",310000,44,,,1
-"RuaRosaKaintNadolny,CampoComprido",1079000,123,3,2,3
-"RuaJorgeBonn,BairroAlto",630000,117,3,2,1
-"Centro,Curitiba",145000,36,,,
-"RuaProfessoraCecíliaIritani,SãoMiguel",249000,198,,,
-"RuaOsmarRosa,CidadeIndustrial",551000,782,,,
-"RuaJovinodoRosário,BoaVista",425410,60,3,1,2
-"RuaAntônioRodriguesdaRocha,Atuba",492500,103,3,2,3
-"RuaCapitãoJoãoRibasdeOliveira,Guabirotuba",512300,79,2,1,1
-"RuaAryRolimCosta,Fazendinha",700000,461,,,
+"Avenida Visconde de Guarapuava, Centro",187000,20-36,1,0-1,1
+"Avenida Visconde de Guarapuava, Centro",279900,32-72,1-2,1-3,1-2
+"Avenida Marechal Floriano Peixoto, Centro",526316,80,,,
+"Rua Flávio Dallegrave, Boa Vista",770000,186,3,2,3
+"Rua Guilherme Walter Lowry, Uberaba",390000,160,3,2,2
+"Rua José Ferreira Pinheiro, Vila Izabel",690000,88,3,2,2
+"Rua Francisco Derosso, Alto Boqueirão",284700,55,2,1,2
+"Rua São Pedro, Cabral",650000,93,3,2,2
+"Avenida dos Estados, Água Verde",28000,364,,,
+"Rua Jair do Nascimento César, Santa Cândida",550000,128,3,2,2
+"Rua Haroldo Euclydes Souza, Mossunguê",1727250,185,4,,4
+"Rua Ângelo Tozim, Campo de Santana",120000,106,,,
+"Rua Rogério Pereira de Camargo, Cidade Industrial",464980,83,3,2,1
+"Rua Recife, Cabral",785000,62,2,2,2
+"Tatuquara, Curitiba",195000,140,2,1,1
+"Estrada Delegado Bruno de Almeida, Campo de Santana",240000,68,3,2,1
+"Barreirinha, Curitiba",590000,667,,,
+"Rua Dante Melara, Cajuru",560000,575,,,
+"Rua Nicolau Gulbino, Capão da Imbuia",339900,46,2,1,2
+"Rua Francisco Derosso, Alto Boqueirão",290000,61,2,2,1
+"Rua Padre Anchieta, Bigorrilho",400000,41,,1,1
+"Rua Zeila Moura dos Santos, Cristo Rei",170800,31,,,1
+"Rua Tamoios, Vila Izabel",859910,78,2,1,2
+"Rua Reinaldo Stocco, Pinheirinho",293000,60,3,,2
+"Rua Barão do Rio Branco, Centro",990248,123-149,2,2,2
+"Rua Vinte e Quatro de Maio, Centro",1226560,153,,,1
+"Avenida Silva Jardim, Rebouças",213991,19-35,1,,1
+"Rua São Pio X, Ahú",799500,86,2,2,3
+"Avenida Cândido Hartmann, Santa Felicidade",2400000,1636,,,
+"Rua Waldemar Kost, Hauer",680000,163,3,2,4
+"Rua Belém, Cabral",549000,98,3,1,3
+"Rua Campo Mourão, Alto Boqueirão",280000,59,3,1,1
+"Rua Canadá, Bacacheri",1001510,110,3,2,3
+"Rua Aquelino Orestes Baglioli, Prado Velho",580000,220,3,,2
+"Alto da Rua XV, Curitiba",1950000,391,,12,6
+"Rua Euclides da Cunha, Bigorrilho",444387,29,,1,1
+"Rua Antônio Turíbio Teixeira Braga, Butiatuvinha",550205,320,,,
+"Rua São Vicente Pallotti, Cajuru",412097,68,3,2,2
+"Rua Roaldo Brun, Atuba",639000,711,,,
+"Rua Doutor João de Paula Moura Brito, Uberaba",600000,145,3,2,3
+"Mossunguê, Curitiba",613100,90,3,2,2
+"Cristo Rei, Curitiba",552900,61,1,1,2
+"Rua Marco Polo, Bairro Alto",580000,116,3,2,5
+"Rua João Viana Seiler, Parolin",341100,64,2,1,2
+"Rua Reinaldo Stocco, Pinheirinho",293000,61,3,1,2
+"Rua Nicolau Salomão, Tingui",345960,59,2,1,2
+"Rua João Barwik, Cachoeira",486000,108,3,2,2
+"Avenida Fredolin Wolf, Pilarzinho",519000,102,3,2,2
+"Avenida Iguaçu, Rebouças",354900,25-62,1-2,0-1,1-2
+"Rua Emiliano Perneta, Centro",2021695,212,,,3
+"Rua Emiliano Perneta, Centro",466158,36-242,,1,
+"Rua Hermenegildo Luca, Santa Felicidade",2070000,224,4,4,3
+"Rua Capitão Joseph Pereira Quevedo, Mercês",1390000,1000,,,
+"Avenida do Batel, Batel",690000,45,1,1,1
+"Avenida Fredolin Wolf, Pilarzinho",519000,102,3,2,2
+"Rua Tobias de Macedo Júnior, Santo Inácio",484700,56,2,2,2
+"Rua Benjamin Constant, Centro",250000,50,,,1
+"Rua Nicolau Salomão, Tingui",439990,74,3,1,2
+"Avenida Presidente Getúlio Vargas, Rebouças",865000,91,3,2,1
+"Rua Agostinho Brusamolin, Capão Raso",330000,59,3,1,1
+"Rua Saldanha da Gama, Centro",699000,88,2,1,3
+"Rua Ubaldino do Amaral, Alto da Rua XV",795000,97,3,2,3
+"Avenida República Argentina, Água Verde",330000,48,1,,1
+"Rua Capitão José Maria Sobrinho, Fanny",410000,60,2,1,2
+"Rua Caetano Granato, Pilarzinho",649110,856,,,
+"Abranches, Curitiba",799000,202,3,3,4
+"Rua Durvalina Fernandes, São Francisco",710000,70,2,1,2
+"Rua Irmãs Paulinas, Novo Mundo",356900,54,2,1,1
+"Rua Quintino Bocaiúva, Cabral",1587420,176,3,2,4
+"Rua Professor Hostílio Araújo, Pilarzinho",630000,487,,,
+"Rua Jerônimo Durski, Bigorrilho",658808,68,2,1,2
+"Rua Clementina de Paula Ferreira, Xaxim",460000,440,,,
+"Rua Desembargador Ermelino de Leão, Centro",259000,35-38,1,,1
+"Rua Visconde do Rio Branco, Centro",635733,60,,,
+"Rua Mariano Torres, Centro",656000,72-168,3,1-2,2-3
+"Avenida Nossa Senhora Aparecida, Seminário",3100000,400,4,4,5
+"Avenida Nossa Senhora da Luz, Cabral",5866751,361,4,4,6
+"Rua Manoel de Souza Dias Negrão, Boa Vista",1890000,394,3,4,5
+"Rua Professora Joanita Bernett Passos, Boqueirão",570000,440,,,
+"Rua Curupaitis, Santa Quitéria",370000,63,1,2,2
+"Rua Capitão José Maria Sobrinho, Fanny",425000,59,2,2,2
+"Alameda Cabral, São Francisco",805000,91,3,2,2
+"Santa Cândida, Curitiba",330000,305,,,
+"Rua Major Vicente de Castro, Fanny",449000,67,2,1,2
+"Rua Reinaldo Stocco, Pinheirinho",750000,160,2,1,3
+"Rua Tobias de Macedo Júnior, Santo Inácio",530700,71,3,2,2
+"Rua João Batista Dallarmi, Santo Inácio",640000,92,2,2,2
+"Alto da Glória, Curitiba",699900,75,2,1,2
+"Rua Marcelino Nogueira, Bacacheri",365000,82,3,1,3
+"Água Verde, Curitiba",424900,77,3,1,2
+"Rua José de Almeida Garrett, Portão",450000,77,3,1,1
+"Uberaba, Curitiba",415000,84,3,1,2
+"Rua Visconde do Rio Branco, Mercês",1254100,84,2,2,2
+"Rua Pedro Collere, Vila Izabel",402410,55,2,1,2
+"Rua Rezala Simão, Portão",279900,59,3,1,1
+"Rua Visconde do Rio Branco, Centro",476670,54,,1,2
+"Rua Baltazar Carrasco dos Reis, Rebouças",310650,34-40,1,1,1
+"Rua Francisco Nunes, Rebouças",180000,35,1,0-1,1
+"Alameda Júlia da Costa, São Francisco",741591,70-152,2-3,1-3,2-3
+"Rua Francisco Juglair, Ecoville",1990000,255,4,4,5
+"Rua Alberto Potier, Boa Vista",779146,85,3,1,2
+"Rua Flávio de Azevedo Macedo, São Lourenço",650000,416,,,
+"Rua Tobias de Macedo Júnior, Santo Inácio",590000,71,2,2,2
+"Rua Zeila Moura dos Santos, Cristo Rei",432100,78,,,1
+"Rua João Alencar Guimarães, Campo Comprido",405000,57,2,1,2
+"Rua Professor Guido Straube, Vila Izabel",576000,47,,,1
+"Rua Francisco Balchak, Boa Vista",546811,111,2,1,2
+"Rua Carmelina Cavassin, Abranches",545000,100,3,3,3
+"Rua Reinaldo Gusso, Capão Raso",880000,470,3,2,5
+"Rua Clóvis Beviláqua Sobrinho, Uberaba",745000,149,3,2,4
+"Alto Boqueirão, Curitiba",288771,48,2,2,1
+"Cidade Industrial, Curitiba",228900,36,1,,1
+"Rua Tobias de Macedo Júnior, Santo Inácio",526100,71,3,2,2
+"Sitio Cercado, Curitiba",440000,440,,,
+"Portão, Curitiba",800000,168,4,3,5
+"Rua Deputado Leoberto Leal, Guabirotuba",659450,373,,,
+"Rua Gil Vicente, Guaíra",650000,396,,,
+"Pilarzinho, Curitiba",795630,112,3,2,3
+"Taboão, Curitiba",2750000,,,,
+"Centro, Curitiba",345000,63,,,1
+"Alameda Júlia da Costa, Mercês",682428,70-152,2-3,1-2,2-4
+"Avenida João Gualberto, Alto da Glória",630008,42-83,1-2,1,2-3
+"Rua Reinaldino Schaffenberg de Quadros, Alto da Rua XV",266993,26-48,1-2,,1
+"Rua Doutor Pedrosa, Batel",218500,17,1,,1
+"Rua Bom Jesus de Iguape, Boqueirão",650000,95,3,1,1
+"Rua Professor Pedro Viriato Parigot de Souza, Ecoville",489000,65,3,1,2
+"Rua Monsenhor Ivo Zanlorenzi, Ecoville",635000,69,2,1,2
+"Rua Doutor Aldivar José Bassetti, Boa Vista",2650000,1991,,,
+"Rua Visconde do Rio Branco, Mercês",1230000,85,2,2,3
+"Rua Raul Pompéia, Cidade Industrial",135000,43,2,1,1
+"Rua Ângelo Nabosne, Cidade Industrial",1165716,99,2,2,2
+"Rua Tobias de Macedo Júnior, Santo Inácio",540000,71,3,2,2
+"Avenida Desembargador Hugo Simas, Bom Retiro",745000,94,3,2,2
+"Rua das Araras, Pinheirinho",339999,52,2,1,2
+"Rua Pedro Collere, Vila Izabel",369643,32,1,1,1
+"Tingui, Curitiba",400100,57,2,,2
+"Rua Alonso Peres Munhoz, Campo Comprido",580000,125,3,2,3
+"Rua Professor Luiz César, Água Verde",700900,84,3,,1
+"Atuba, Curitiba",739000,167,3,2,4
+"Rua Ângelo Nabosne, Campo Comprido",1099870,99,2,2,2
+"Rua João Kasdorf, Xaxim",565000,108,3,2,3
+"Lindóia, Curitiba",800000,528,,,
+"Rua Miguel Jorge Nasser, Tingui",230000,64,3,1,1
+"Rua Manoel de Souza Dias Negrão, Boa Vista",750000,220,,,
+"Rua Alferes Ângelo Sampaio, Batel",2259200,151,3,3,3
+"Avenida Vicente Machado, Batel",681330,53-125,1-3,1-2,
+"Rua Alferes Ângelo Sampaio, Bigorrilho",696138,54-189,2-3,1-2,2
+"Rua Bom Jesus, Juvevê",1499000,221,4,2,4
+"Rua José Cadilhe, Água Verde",2200000,189,4,3,6
+"Rua Riachuelo, Centro",217900,17,1,,1
+"Rua Pedro Collere, Vila Izabel",369643,32,1,1,1
+"Tingui, Curitiba",400100,57,2,,2
+"Rua João Gava, Abranches",690000,94,3,2,2
+"Rua Professor Luiz César, Água Verde",700900,84,3,,1
+"Avenida Nossa Senhora Aparecida, Seminário",191200,31,,,
+"Rua Mariano Torres, Centro",280000,90,,,1
+"Rua João Kasdorf, Xaxim",565000,108,3,2,3
+"Rua Major Vicente de Castro, Fanny",529090,79,3,1,2
+"Jardim Botânico, Curitiba",587900,76,2,1,2
+"Rua Miguel Jorge Nasser, Tingui",230000,64,3,1,1
+"Rua Clementina de Paula Ferreira, Xaxim",460000,440,,,
+"Rua Manoel Eufrásio, Juvevê",3250000,284,4,4,6
+"Cristo Rei, Curitiba",1290000,149,3,3,1
+"Rua Vinte e Quatro de Maio, Rebouças",220000,60,,1,1
+"Rua Jovino do Rosário, Boa Vista",549000,70,2,1,1
+"Rua Laudelino Ferreira Lopes, Novo Mundo",369000,58,2,1,1
+"Rua Grã Nicco, Ecoville",520000,75,,1,1
+"Rua Monte Carmelo, Pinheirinho",584430,180,3,3,3
+"Avenida do Batel, Batel",700000,46,1,1,1
+"Rua Maria Clara, Alto da Glória",811100,75-221,2-3,2-3,3-4
+"Rua Schiller, Cristo Rei",306952,33-41,1-2,,1
+"Avenida Sete de Setembro, Batel",959000,155,4,2,4
+"Rua Júlia Huga Maria Negrello, Umbara",698000,147,4,3,3
+"Rua Hildebrando de Araújo, Jardim Botânico",129000,28,1,,1
+"Rua Zeila Moura dos Santos, Cristo Rei",432100,78,,,1
+"Rua Tobias de Macedo Júnior, Santo Inácio",590000,71,2,2,2
+"Rua Emiliano Perneta, Centro",230000,35,,,1
+"Rua Nicolau Salomão, Tingui",345960,59,2,1,2
+"Novo Mundo, Curitiba",383462,62,2,1,2
+"Rua Júlia Ferreira do Amaral Stamm, Campo de Santana",178000,44,2,1,1
+"Rua Monsenhor Manoel Vicente, Água Verde",1465000,129,3,2,3
+"Rua São Vicente Pallotti, Cajuru",412097,68,3,2,2
+"Rua Paraíba, Guaíra",451000,63,2,1,1
+"Rua João Viana Seiler, Parolin",447658,52,2,1,1
+"Neoville, Curitiba",550000,450,,,
+"Rua Antônio Parolin Júnior, Parolin",423000,83,3,1,3
+"Rua Elizeu Américo Comim, Pinheirinho",530000,434,,,
+"Rua Itaúna do Sul, Alto Boqueirão",250000,60,,2,1
+"Rua Maria Noemia dos Santos, Santa Cândida",315000,64,2,1,1
+"Rua Agostinho Brusamolin, Capão Raso",330000,59,3,1,1
+"Rua Vinte e Quatro de Maio, Rebouças",220000,60,,1,1
+"Rua Rogério Pereira de Camargo, Cidade Industrial",308900,54,2,1,2
+"Rua Alferes Ângelo Sampaio, Bigorrilho",1401863,107-318,3,2-3,2-4
+"Rua Capitão Souza Franco, Champagnat",470500,31-159,1,0-1,1
+"Avenida João Gualberto, Alto da Glória",2604000,200-312,2-3,3-4,5-6
+"Rua Eça de Queiroz, Ahú",650000,79,1,1,2
+"Alameda Presidente Taunay, Batel",4655964,237,3,,3
+"Rua Desembargador Aurélio Feijó, Boa Vista",550000,80,3,1,2
+"Rua Sofia Dubiella, Abranches",1290000,275,4,7,4
+"Rua Desembargador Westphalen, Centro",135000,45,,,2
+"Rua Angélica Manikosky Geronasso, Boa Vista",449975,62,2,1,2
+"Rua São Vicente Pallotti, Cajuru",403857,68,3,1,2
+"Água Verde, Curitiba",549000,77,2,2,2
+"Rua Vinicios José Bório Júnior, Campo de Santana",195000,46,2,1,1
+"Rua João Batista Trentin, Tingui",469900,59,2,1,2
+"Avenida Fredolin Wolf, Pilarzinho",450000,53,2,1,1
+"Travessa Taboão, Taboão",520000,626,,,
+"Rua Augusto de Mari, Guaíra",599000,598,,,
+"Rua Gerônimo Muraro, Santa Felicidade",449900,10,,,
+"Rua Arthur Mohr, Portão",635900,79,3,1,1
+"Rua Grã Nicco, Ecoville",520000,75,,1,1
+"Rua João Mequetti, Santa Cândida",260000,58,3,1,1
+"Campo Comprido, Curitiba",720000,133,3,3,2
+"Rua Brasílio Bacellar Filho, Tingui",354900,57,2,1,2
+"Avenida da República, Portão",879912,84,2,1,2
+"Avenida Senador Salgado Filho, Uberaba",1100000,785,,,
+"Rua Visconde do Rio Branco, Mercês",631700,72-88,2,1-2,2-3
+"Alameda Júlia da Costa, Bigorrilho",Sobconsulta,149-261,2-3,2-3,3-5
+"Rua Alferes Ângelo Sampaio, Mercês",1005600,90-209,2-3,2-3,3-4
+"Rua Saldanha Marinho, Batel",2190000,188,3,3,4
+"Rua Campos Sales, Ahú",1550000,168,3,3,5
+"Rua Dias da Rocha Filho, Alto da Rua XV",1190000,174,2,3,2
+"Umbara, Curitiba",165000,49,2,1,1
+"Rua Rogério Pereira de Camargo, Cidade Industrial",380000,55,2,1,2
+"Estrada Delegado Bruno de Almeida, Campo de Santana",152320,53,,1,1
+"Rua São Vicente Pallotti, Cajuru",395900,68,3,1,2
+"Rua Carmelina Cavassin, Abranches",545000,100,3,3,3
+"Rua Jovino do Rosário, Boa Vista",511090,60,3,1,2
+"Avenida Fredolin Wolf, Pilarzinho",519000,102,3,2,2
+"Avenida Fredolin Wolf, Santa Felicidade",530000,59,2,2,2
+"Rua João Alencar Guimarães, Campo Comprido",405000,57,2,1,2
+"Rua João Mequetti, Santa Cândida",279760,63,3,2,1
+"Rodovia BR-116, Hugo Lange",440000,58,2,,1
+"Rua João Ramalho, Bairro Alto",429720,111,3,2,3
+"Rua Jovino do Rosário, Boa Vista",549000,70,2,1,1
+"Água Verde, Curitiba",500000,94,3,2,2
+"Estrada Delegado Bruno de Almeida, Campo de Santana",175000,39,2,1,1
+"Rua Júlia Huga Maria Negrello, Umbara",315000,225,,,
+"Rua Ângelo Tozim, Campo de Santana",170000,45,2,1,1
+"Rua Engenheiro Ostoja Roguski, Jardim Botânico",498000,61,2,1,1
+"Rua Júlia Wanderley, Mercês",712348,77-159,2-3,1-3,3-4
+"Rua Barão de Guaraúna, Alto da Glória",480900,55-147,1-2,1-2,2-3
+"Travessa Percy Withers, Água Verde",2250000,187-352,3-4,4,6
+"Rua Maria Clara, Alto da Glória",1086000,99,3,2,2
+"Rua Dom Pedro I, Água Verde",1414080,196,3,2,3
+"Rua David Geronasso, Boa Vista",950000,129,3,2,3
+"Rua Constantino Marochi, Juvevê",380000,27,1,,1
+"Centro, Curitiba",295000,52,,,1
+"Rua Brasílio Itiberê, Jardim Botânico",700000,292,,,
+"Estrada Guilherme Weigert, Santa Cândida",187000,53,2,2,1
+"Abranches, Curitiba",750000,2000,,,
+"Rua Modesto Piccoli, Tingui",1500000,2000,,,
+"Rua Marechal Deodoro, Centro",360000,48,,,1
+"Rua Fortaleza, Cajuru",650000,127,3,2,3
+"Cajuru, Curitiba",530000,90,3,2,4
+"Rua XV de Novembro, Centro",150000,40,,,1
+"Rua Pedro Krasinski, Capão Raso",349000,67,2,1,1
+"Rua Ubaldino do Amaral, Alto da Glória",425000,34,,,1
+"Rua Alberto Pasqualini, Uberaba",550000,478,,,
+"Rua Monsenhor Ivo Zanlorenzi, Cidade Industrial",760000,88,2,2,2
+"Rua Estados Unidos, Boa Vista",821000,102,3,2,3
+"Rua Santa Madalena Sofia Barat, Bairro Alto",639830,576,,,
+"Rua Dirce Rogal Tomazeli, Campo de Santana",202000,45,2,1,1
+"Rua Pedro Collere, Vila Izabel",402410,55,2,1,2
+"Avenida João Gualberto, Alto da Glória",451693,19-261,,1,1
+"Rua Constantino Marochi, Juvevê",1050000,105-179,3,2-3,4-5
+"Rua José Cadilhe, Água Verde",433900,38-92,1-3,2,1-3
+"Rua Luiz Kula, Barigui",3200000,320,3,4,5
+"Rua Mariano Torres, Centro",345000,52,1,,1
+"Rua Coronel Joaquim Sarmento, Bom Retiro",269710,27,1,,1
+"Rua Irineu Antônio Borges, Caiuá",500000,97,2,3,3
+"Rua Doutor Waldemiro Pereira, Capão Raso",323500,48,2,1,1
+"Avenida Pero Vaz de Caminha, Tatuquara",139000,42,2,1,1
+"Ecoville, Curitiba",379900,54,2,1,2
+"Rua Pedro Américo, Novo Mundo",798000,130,3,2,3
+"Campo de Santana, Curitiba",207300,80,2,1,1
+"Rua João Kasdorf, Xaxim",565000,108,3,2,3
+"Rua Augusto de Mari, Guaíra",650000,368,,,
+"Rua Reinaldo Stocco, Pinheirinho",750000,160,2,1,3
+"Rua Rodolfo Bernardelli, Uberaba",598000,105,3,2,3
+"Centro, Curitiba",1086300,107,3,1,3
+"Avenida Presidente Affonso Camargo, Cristo Rei",721700,81,3,1,2
+"Rebouças, Curitiba",850000,644,,,
+"Rua Professor Guido Straube, Vila Izabel",576000,47,,,1
+"Rua Monsenhor Ivo Zanlorenzi, Ecoville",805000,78,2,1,2
+"Rua João Bonat, Novo Mundo",485865,62,2,1,2
+"Rua Antônio Freitas Barbosa, Capão Raso",323900,48,2,1,1
+"Rodovia BR-116, Cajuru",370398,58,2,1,1
+"Avenida Presidente Affonso Camargo, Cristo Rei",563400,63-81,1-3,1,2
+"Rua Nicolau Maeder, Juvevê",439371,46,2,,1
+"Rua Professor Luiz César, Água Verde",423900,28-84,1-3,0-2,1-2
+"Rua David Geronasso, Boa Vista",950000,129,3,2,3
+"Rua Doutora Jenny Lagos Pereira de Souza, Santa Cândida",450000,98,3,2,3
+"Água Verde, Curitiba",3954700,219,3,4,5
+"Rua Pedro Rissetti, Guabirotuba",870000,492,,,
+"Rua Deputado Estefano Mikilita, Portão",400000,48,,,1
+"Rua Arcésio Correia Lima, Atuba",499000,502,,,
+"Água Verde, Curitiba",280000,34,,,
+"Rua Visconde do Rio Branco, Mercês",848700,85,2,2,3
+"Avenida Água Verde, Vila Izabel",525000,97,2,1,3
+"Rua Visconde do Rio Branco, Centro",1880000,307,,2,4
+"Mercês, Curitiba",1245800,85,2,2,3
+"Avenida da República, Portão",879912,84,2,1,2
+"Cajuru, Curitiba",549000,115,3,2,2
+"Rua José Loureiro, Centro",185000,69,4,,1
+"Rebouças, Curitiba",460000,47,,1,3
+"Rua José Gildo Beleski, Bacacheri",421005,48,2,1,1
+"Rua Júlia Wanderley, Mercês",1389800,875,,,
+"Rua Ébano Pereira, Centro",170000,45,,,
+"Alto da Glória, Curitiba",1090200,111,3,2,1
+"Rua José Américo Tizoni, Campo Comprido",796000,94,3,2,2
+"Rua Teffe, Bom Retiro",2800000,220,,,
+"Rua Professor Luiz César, Água Verde",237900,31-60,1,0-2,1
+"Rua Presidente Beaurepaire Rohan, Cristo Rei",800000,85-150,2-3,2-3,3
+"Rua Moyses Marcondes, Juvevê",1060000,105-129,3,2-3,3-4
+"Rua Álvaro Alvim, Seminário",2500000,415,4,6,5
+"Alameda Dom Pedro II, Batel",4000000,449,3,3,5
+"Bigorrilho, Curitiba",520000,76,2,1,2
+"Rua Doutor Waldemiro Pereira, Capão Raso",323500,48,2,1,1
+"Rua Elizeu Américo Comim, Pinheirinho",530000,434,,,
+"Centro, Curitiba",459000,36,,,1
+"Rua João Scucato, Barreirinha",550000,1007,,,
+"Rua Marco Polo, Bairro Alto",580000,112,3,2,3
+"Rua Professor Hostílio Araújo, Pilarzinho",750000,200,4,2,3
+"Rua do Jacarandá, Barreirinha",550000,510,,,
+"Rua Marcílio Dias, Bairro Alto",450000,,,,
+"Tingui, Curitiba",494965,60,2,2,1
+"Avenida Sete de Setembro, Centro",280000,31,,1,1
+"Rua das Araras, São Braz",580000,97,2,2,2
+"Rebouças, Curitiba",850000,644,,,
+"Rua Visconde do Rio Branco, Mercês",897000,84,2,2,3
+"Rua Antônio Turíbio Teixeira Braga, Butiatuvinha",600000,320,,,
+"Rua Luiz Ronaldo Canalli, Campo Comprido",393821,56,2,1,2
+"Santo Inácio, Curitiba",530700,71,3,2,2
+"Rua Reinaldo Stocco, Pinheirinho",250000,45,2,1,1
+"Rua Senador Roberto Kenedy, Prado Velho",210779,24,1,,1
+"Rua Humberto Morona, Cristo Rei",999000,72,2-3,2,2-3
+"Rua Reinaldino Schaffenberg de Quadros, Alto da Rua XV",1050000,108,3,2,2
+"Rua Professor Assis Gonçalves, Água Verde",683500,77-105,2-3,1-2,2-3
+"Centro, Curitiba",980000,153,3,3,2
+"Rua Paulo Graeser Sobrinho, Mercês",800000,539,,,
+"Rua Nicola Pellanda, Umbara",170000,48,2,1,1
+"Rua Albo Brunetti, Novo Mundo",14450000,17029,,,
+"Rua Luiz Ronaldo Canalli, Campo Comprido",393821,56,2,1,2
+"Rua Reinaldo Stocco, Pinheirinho",250000,45,2,1,1
+"Rua Theodoro Makiolka, Santa Cândida",225000,40,2,1,1
+"Travessa Taboão, Taboão",419690,397,,,
+"Rua Cidade de Maria Helena, Cidade Industrial",579000,579,,,
+"Rua Santa Mariana, Cajuru",459000,105,3,2,3
+"Rua Eduardo Aguirre Calabresi, Cristo Rei",750000,170,3,1,2
+"Rua Tobias de Macedo Júnior, Santo Inácio",545000,71,3,1,2
+"Rua Oscar Gomes de Oliveira, Santa Cândida",249900,50,2,1,1
+"Rua Eponino Macuco, Capão Raso",360000,53,2,1,1
+"Rua Felisbino Passos, Tingui",450000,55,2,1,1
+"Avenida da República, Portão",438685,55,2,1,2
+"Tingui, Curitiba",320700,50,2,,1
+"Centro Cívico, Curitiba",199000,36,,,1
+"Rua São Vicente Pallotti, Cajuru",448125,72,3,1,1
+"Rua Padre Anchieta, Bigorrilho",400000,42,,1,1
+"Travessa Elizabete Charlote Brand, Sitio Cercado",457000,150,2,3,2
+"Alameda Princesa Izabel, Bigorrilho",1208635,97-172,2-3,2-3,4-5
+"Rua Professor Guido Straube, Vila Izabel",959000,75-101,2-3,1-3,2-4
+"Rua Professor Guido Straube, Vila Izabel",395000,39-390,,1-9,1-5
+"Avenida República Argentina, Água Verde",340000,38,,1,1
+"Rua Francisco Zuneda Ferreira da Costa, Bairro Alto",1298000,191,3,1,4
+"Rua Manoel Eufrásio, Juvevê",3200000,283,4,4,6
+"Capão Raso, Curitiba",2280000,675,,,
+"Rua André de Barros, Centro",240000,28,,,2
+"Avenida Água Verde, Vila Izabel",525000,97,2,1,3
+"Rua Osmar Rosa, Cidade Industrial",551000,782,,,
+"Rua Salomão Guelmann, Novo Mundo",389400,66,2,1,2
+"Alameda Cabral, São Francisco",805000,91,3,2,2
+"Rua Leópolis, Alto Boqueirão",230000,60,2,,1
+"Rua Marmelo, Uberaba",849000,210,3,3,3
+"Rua Lodovico Kaminski, Augusta",153000,48,2,1,1
+"Rua Arthur Polzin, Novo Mundo",763360,512,,,
+"Rua Vinte e Nove de Junho, Bacacheri",643000,87,3,1,2
+"Rua Tenente-Coronel Servando de Loyola e Silva, Barreirinha",749410,124,3,2,3
+"Rua Zeila Moura dos Santos, Cristo Rei",205300,22,,,1
+"Rebouças, Curitiba",460000,47,,1,3
+"Avenida Desembargador Hugo Simas, Bom Retiro",540000,71,2,1,2
+"Estrada Guilherme Weigert, Santa Cândida",284400,60,3,1,1
+"Rua Conselheiro Laurindo, Centro",145000,19,,,1
+"Rua Júlia Wanderley, Mercês",1389800,875,,,
+"Rua Murilo do Amaral Ferreira, Água Verde",2970525,259,4,3-4,3
+"Rua Manoel Eufrásio, Juvevê",1570000,134-249,3,2-4,4-6
+"Rua Euclides da Cunha, Bigorrilho",Sobconsulta,29-488,,1,1
+"Cabral, Curitiba",2200000,337,4,,4
+"Rua Nicola Pellanda, Umbara",270000,176,,,
+"Rua Amadeu Assad Yassim, Bacacheri",380000,65,3,1,2
+"Rua Zeila Moura dos Santos, Cristo Rei",529500,131,,,1
+"Fanny, Curitiba",425000,59,2,1,2
+"Rua Doutor Waldemiro Pereira, Capão Raso",479380,73,3,1,2
+"Rua Tenente-Coronel Servando de Loyola e Silva, Barreirinha",750000,94,3,2,3
+"Rua Grã Nicco, Mossunguê",265000,56,,,
+"Rua Cecília Mikosz, Tangua",780000,600,,,
+"Avenida Presidente Getúlio Vargas, Vila Izabel",538600,62,2,1,1
+"Abranches, Curitiba",3290000,653,4,6,5
+"Santa Cândida, Curitiba",250000,47,2,1,1
+"Rua Rezala Simão, Santa Quitéria",279900,59,3,1,1
+"Rua Antônio Stival, Santa Felicidade",1399610,657,,,
+"Rua Walace Landal, Santa Cândida",145000,46,2,1,1
+"Batel, Curitiba",624793,47,,,1
+"Rua Sérgio Pereira da Silva, Pilarzinho",1080000,180,4,4,4
+"Rua Santo Antônio, Rebouças",392000,66,2,1,1
+"Rua Salomão Guelmann, Novo Mundo",534537,75,3,2,2
+"Cajuru, Curitiba",600000,164,3,3,2
+"Rua Vereador Antônio dos Reis Cavalheiro, Cabral",1527300,160,3,2,4
+"Rua Bom Jesus, Juvevê",732000,78-163,2-3,1,1
+"Avenida Munhoz da Rocha, Juvevê",4118891,260-437,3-4,3-4,5-6
+"Rua Manoel Eufrásio, Juvevê",1170000,119-195,3,2-4,3-4
+"Rua Doutor Leão Mocellin, Santa Felicidade",929000,120,3,2,3
+"Rua Almirante Tamandaré, Cristo Rei",899000,186,4,3,3
+"Rua Emílio Cornelsen, Cabral",580000,87,3,1,2
+"Rua Júlia Wanderley, Mercês",1389800,875,,,
+"Novo Mundo, Curitiba",265000,53,2,1,2
+"Rua José Clementino Bettega, Capão Raso",649000,78,3,2,2
+"Rua Rachid Pacífico Fatuch, Santa Felicidade",750000,600,,,
+"Parolin, Curitiba",790000,218,3,4,4
+"Rua Itupava, Hugo Lange",195000,45,,1,1
+"Fanny, Curitiba",425000,59,2,1,2
+"Rua José Zaleski, Capão Raso",542221,78,3,1,2
+"Rua Doutor Waldemiro Pereira, Capão Raso",479380,73,3,1,2
+"Rua Synval Stocchero, Augusta",155000,49,2,1,1
+"Rua Tenente-Coronel Servando de Loyola e Silva, Barreirinha",750000,94,3,2,3
+"Rua Grã Nicco, Mossunguê",265000,56,,,
+"Rua Baltazar Carrasco dos Reis, Rebouças",428000,55,2,1,1
+"Rua Cecília Mikosz, Tangua",780000,600,,,
+"Abranches, Curitiba",3290000,653,4,6,5
+"Avenida Santa Bernadethe, Fanny",850000,476,,,
+"Santa Cândida, Curitiba",250000,47,2,1,1
+"Rua Rezala Simão, Santa Quitéria",279900,59,3,1,1
+"Rua Coronel Joaquim Ignácio Taborda Ribas, Bigorrilho",724000,80-137,3,2,2
+"Rua Coronel Joaquim Ignácio Taborda Ribas, Bigorrilho",703081,75-94,3,1-2,2
+"Avenida República Argentina, Vila Izabel",384700,34-44,,,
+"Rua Doutor Carlos Bruno Breithaupt, Jardim das Américas",797700,210,4,4,4
+"Avenida República Argentina, Água Verde",1275000,181,4,3,4
+"Portão, Curitiba",285000,55,2,1,1
+"Rua Sant'Ana, Jardim Botânico",660000,480,,,
+"Rua Amácio Mazzaropi, Santa Cândida",950000,1500,,,
+"Rua Roberto Peixoto de Souza, Fazendinha",520000,10,,,
+"Rua General Carneiro, Alto da Rua XV",1017698,91,3,2,2
+"Rua Tenente Francisco Ferreira de Souza, Hauer",312144,51,2,1,1
+"Rua Pinheiral do Albino, Campo de Santana",350000,5372,,,
+"Rua Ubaldino do Amaral, Alto da Rua XV",775000,97,3,2,2
+"Bairro Alto, Curitiba",350000,206,,,
+"São Francisco, Curitiba",667528,60,2,1,2
+"Rua João Batista Trentin, Tingui",549000,68,3,1,2
+"Rua Emiliano Perneta, Centro",493000,71,,,2
+"Rodovia BR-116, Atuba",265000,50,2,1,1
+"Rua Francisco Balchak, Boa Vista",456000,62,3,1,2
+"Rua Alberto Kosop, Pinheirinho",378086,53,2,1,2
+"Avenida Marechal Floriano Peixoto, Centro",320000,71,,,1
+"Rua Antônio Rodrigues, Seminário",1015000,119,3,2,3
+"Tingui, Curitiba",350728,60,2,1,1
+"Rua Dom Alberto Gonçalves, Bom Retiro",729900,170,3,3,2
